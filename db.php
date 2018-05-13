@@ -7,5 +7,5 @@ $conn = mysql_connect($dbhost, $dbuser, $dbpass) ;
 if (!$conn)   {   
     die('Could not connect: ' . mysql_error()); 
 }
-mysql_select_db( "w1626640_0",$conn); 
+mysql_select_db( "DATABASE_NAME",$conn); 
 ?>
