@@ -1,4 +1,4 @@
-                                              workedUp Problem Definition
+                                              Problem Definition
 1.	Marketing and advertising of products
 
 •	The costs of printing catalogues to advertise a large number of products are high.
